@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "614669152383",
+    "project_id": "database-lecture-590bb",
+    "storage_bucket": "database-lecture-590bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614669152383:android:20533128367926a3d98f4a",
+        "android_client_info": {
+          "package_name": "com.example.day16database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614669152383-a2o50gdqe9c0pr5618mqe6m1vplvehlg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk6OkvqUxZHMf5D-wllkbHdF4SM24xsZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614669152383-a2o50gdqe9c0pr5618mqe6m1vplvehlg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

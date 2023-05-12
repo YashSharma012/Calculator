@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "262660422007",
+    "project_id": "ykart-1ff05",
+    "storage_bucket": "ykart-1ff05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262660422007:android:444295eb14cc1b5ebb4972",
+        "android_client_info": {
+          "package_name": "com.example.ykart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262660422007-jsbgkr12d3pr5b6mpr0p4upka60r407q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp0cWy5ssOyoYMwvwYCfqjxsJM-aULT4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262660422007-jsbgkr12d3pr5b6mpr0p4upka60r407q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
